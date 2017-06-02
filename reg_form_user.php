@@ -23,7 +23,7 @@ $user_r = $_SESSION['valid_user_r'];
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>ФГБУ ИАЦ Судебного департамента</title>
+    <title>title</title>
 
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.css" rel="stylesheet">
